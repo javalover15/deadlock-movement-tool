@@ -21,7 +21,7 @@ int main() {
         return -1;
     }
 
-    Menu menu("momentum v0.1 (insert to show/hide)", 300, 250);
+    Menu menu("momentum v0.1", 300, 250);
     if (!menu.create()) {
         std::cout << "[ERROR]: Failed to create the menu." << "\n";
         std::cout << "Press enter to continue...";
