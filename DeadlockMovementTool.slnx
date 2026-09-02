@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DeadlockMovementTool.vcxproj" Id="d973ea49-cd17-4cec-995e-b9f9ebedc3b3" />
+</Solution>
