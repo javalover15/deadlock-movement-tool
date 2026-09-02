@@ -5,7 +5,7 @@ The tool allows you to save and teleport to positions in-game. You can also crea
 
 ## Installation
 1. Add '-condebug' to your Deadlock launch options.
-2. Cope the 'autoexec.cfg' file into '../Deadlock/game/citadel/cfg/'
+2. Copy the 'autoexec.cfg' file into '../Deadlock/game/citadel/cfg/'
 3. Launch the '.exe'.
 4. When prompted paste your Deadlock game path: '../Deadlock/'
 
